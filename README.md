@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Simas</h1>
+<h3 align="center">A software developer from Lithuania 🟨 🟩 🟥</h3>
 
-<!--
-**simasdev/simasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **ERP systems development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **.NET secrets**
+
+- 👯 I’m looking to collaborate on **any .NET projects - it's always fun**
+
+- 🤝 I’m looking for help with **anything you are better at ☀️**
+
+- 💬 Ask me about **everything - I like chin-wagging**
+
+- ⚡ Fun fact **during childhood, my family member got a minor electric shock when touched my home-made AiO**
