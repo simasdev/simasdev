@@ -10,6 +10,6 @@
 
 - 🤝 I’m looking for help with **anything you are better at ☀️**
 
-- 💬 Ask me about **everything - I like chin-wagging**
+- 💬 Ask me about **anything - I like chin-wagging**
 
 - ⚡ Fun fact **during childhood, my family member got a minor electric shock when touched my home-made AiO**
