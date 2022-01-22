@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **ERP systems development**
 
-- 🌱 I’m currently learning **.NET secrets**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **any .NET projects - it's always fun**
 
