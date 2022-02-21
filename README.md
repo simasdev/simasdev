@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently working on **ERP systems development**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **mobile apps development**
 
 - 👯 I’m looking to collaborate on **any .NET projects - it's always fun**
-
-- 🤝 I’m looking for help with **anything you are better at ☀️**
 
 - 💬 Ask me about **anything - I like chin-wagging**
 
